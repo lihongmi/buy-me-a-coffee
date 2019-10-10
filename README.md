@@ -5,7 +5,7 @@
 ## [PayPal](https://www.paypal.me/hongmili/)
 
 ## 微信
-
+微信打赏，让我为大家提供更好的服务！(留言请注明称呼)
 <img width="250" src="buy-me-a-coffee-wechat.jpg" />
 
 ## 支付宝
